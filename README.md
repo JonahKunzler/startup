@@ -13,3 +13,5 @@ https://ninjamock.com/s/XL4WVKx
 Remember to incorporate the link to the website on my development homepage
 
 Structure and organization need to be simple to allure viewers. Anything that comes out as too intricate will most likely be ignored
+
+Style needs to be consistent (colors, bordering, font size, etc.)
