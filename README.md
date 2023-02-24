@@ -5,7 +5,6 @@ Key features:
   - Ability to track the amount of calories you intake and burn each day
   - Login to your account with username and password
   - The Workout plan you will incorporate into your daily routine
-  - Tutorial video on how to use the application
   - Ability to list our your fitness goals
 
 ![image](https://user-images.githubusercontent.com/101172114/215017870-f5089c23-8ccc-47ae-9d12-81a4b1f1105e.png)
