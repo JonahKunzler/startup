@@ -9,3 +9,7 @@ Key features:
 
 ![image](https://user-images.githubusercontent.com/101172114/215017870-f5089c23-8ccc-47ae-9d12-81a4b1f1105e.png)
 https://ninjamock.com/s/XL4WVKx
+
+Remember to incorporate the link to the website on my development homepage
+
+Structure and organization need to be simple to allure viewers. Anything that comes out as too intricate will most likely be ignored
