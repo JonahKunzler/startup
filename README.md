@@ -32,3 +32,9 @@ Javascript makes a HUGE difference!
 Start UP Simon Project Insights:
 I learned how useful it is to access elements from HTML in order to create my JS code. 
 Without the functions I used on JS the webpage would've been useless and not interactive for the User
+
+What I've learned from the Simon Service Project (3/22)
+
+Node.js and express would have to be utilized in order for the service to work.
+Doing this project will make it so that the record breaking scores are at the top
+All deliverable files need to be in a directory called public
