@@ -37,4 +37,4 @@ What I've learned from the Simon Service Project (3/22)
 
 Node.js and express would have to be utilized in order for the service to work.
 Doing this project will make it so that the record breaking scores are at the top
-All deliverable files need to be in a directory called public
+All deliverable files need to be in a directory called public.
