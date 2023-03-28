@@ -46,3 +46,8 @@ Hostname: cluster0.3ormjuu.mongodb.net/
 
 What I learned from the DB Simon Project:
 Remember to have a database.js where you can add scores, get high scores, and use your mongoGB information and link to the account
+
+What I learned from the DB Login:
+Authorization services often use standard protocols for authenticating and authorizing. 
+Authorization Cookie is what will make it more efficient
+Make sure DB is running well prior to working on Login
