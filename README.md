@@ -51,3 +51,7 @@ What I learned from the DB Login:
 Authorization services often use standard protocols for authenticating and authorizing. 
 Authorization Cookie is what will make it more efficient
 Make sure DB is running well prior to working on Login
+
+What I learned from Websocket Simon:
+Need to implement it with peerProxy.js which contains the protocol upgrade from HTTP to WebSocket, tracks connections, passes (or proxies) requests between connections, and implements ping/pong to keep connections alive.
+play.js would have the functions for connecting, broadcasting, receiving, and displaying events.
