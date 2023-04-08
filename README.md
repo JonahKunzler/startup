@@ -32,3 +32,32 @@ Javascript makes a HUGE difference!
 Start UP Simon Project Insights:
 I learned how useful it is to access elements from HTML in order to create my JS code. 
 Without the functions I used on JS the webpage would've been useless and not interactive for the User
+
+What I've learned from the Simon Service Project (3/22)
+
+Node.js and express would have to be utilized in order for the service to work.
+Doing this project will make it so that the record breaking scores are at the top
+All deliverable files need to be in a directory called public.
+
+MongoDB Credentials
+Username: Jonahk12
+Password: Ferrarifan12
+Hostname: cluster0.3ormjuu.mongodb.net/
+
+What I learned from the DB Simon Project:
+Remember to have a database.js where you can add scores, get high scores, and use your mongoGB information and link to the account
+
+What I learned from the DB Login:
+Authorization services often use standard protocols for authenticating and authorizing. 
+Authorization Cookie is what will make it more efficient
+Make sure DB is running well prior to working on Login
+
+What I learned from Websocket Simon:
+Need to implement it with peerProxy.js which contains the protocol upgrade from HTTP to WebSocket, tracks connections, passes (or proxies) requests between connections, and implements ping/pong to keep connections alive.
+play.js would have the functions for connecting, broadcasting, receiving, and displaying events.
+
+What I learned from the start up service project: Using services, Node.js, MongoDB, authentication, and WebSockets can make it easier and faster to build web applications.
+
+Services help make your code simpler and easier to update, while Node.js is a tool that can help make your application fast and efficient. MongoDB is a type of database that can handle a lot of information and traffic.
+
+Authentication is important because it helps ensure that only authorized users can access your application. WebSockets allow for real-time communication between the server and the client, which can be useful for things like chat applications or online gaming.
