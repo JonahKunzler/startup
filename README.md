@@ -55,3 +55,9 @@ Make sure DB is running well prior to working on Login
 What I learned from Websocket Simon:
 Need to implement it with peerProxy.js which contains the protocol upgrade from HTTP to WebSocket, tracks connections, passes (or proxies) requests between connections, and implements ping/pong to keep connections alive.
 play.js would have the functions for connecting, broadcasting, receiving, and displaying events.
+
+What I learned from the start up service project: Using services, Node.js, MongoDB, authentication, and WebSockets can make it easier and faster to build web applications.
+
+Services help make your code simpler and easier to update, while Node.js is a tool that can help make your application fast and efficient. MongoDB is a type of database that can handle a lot of information and traffic.
+
+Authentication is important because it helps ensure that only authorized users can access your application. WebSockets allow for real-time communication between the server and the client, which can be useful for things like chat applications or online gaming.
