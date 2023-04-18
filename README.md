@@ -61,3 +61,10 @@ What I learned from the start up service project: Using services, Node.js, Mongo
 Services help make your code simpler and easier to update, while Node.js is a tool that can help make your application fast and efficient. MongoDB is a type of database that can handle a lot of information and traffic.
 
 Authentication is important because it helps ensure that only authorized users can access your application. WebSockets allow for real-time communication between the server and the client, which can be useful for things like chat applications or online gaming.
+
+What I Learned From The Simon React:
+Make sure to install the packages before implementing React (i.e. npx create-react-app)
+Make sure js files are changed to jsx
+uninstall packages that I won't ever use for React
+The public folder should have the front end files (html)
+
